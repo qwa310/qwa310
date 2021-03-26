@@ -1,5 +1,5 @@
-### - 🚀 I’m currently working on Stock-King project.
-### - 🌱 I’m currently learning React, Flutter, Machine Learning..
+- 🚀 I’m currently working on Stock-King project.
+- 🌱 I’m currently learning React, Flutter, Machine Learning..
 
 ## ![GitHub stats](https://github-readme-stats.vercel.app/api?username=qwa310&show_icons=true)  
 ## ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=qwa310)
