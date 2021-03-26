@@ -1,9 +1,7 @@
 ### 🚀 I’m currently working on Stock-King project.
 ### 🌱 I’m currently learning React, Flutter, Machine Learning..
 
-## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qwa310&layout=compact)](https://github.com/qwa310/github-readme-stats)
-## ![GitHub stats](https://github-readme-stats.vercel.app/api?username=qwa310&show_icons=true)  
-
+## ![qwa310's GitHub stats](https://github-readme-stats.vercel.app/api?username=qwa310&show_icons=true&theme=merko)
 
 
 <!--
