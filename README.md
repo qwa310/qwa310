@@ -1,5 +1,4 @@
-## Hi there 👋
-I'm currently studying in the Department of IT Convergence and Application Engineering.
+#### I'm currently studying in the Department of IT Convergence and Application Engineering.
 
 ## Experience 🚀
 - DSC PKNU (2020.08 ~)   /   Fun.D (2021.03 ~)   /   DOCL PROJECT (4 months)   /   데이터 청년 캠퍼스 (2 months)
