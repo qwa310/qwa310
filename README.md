@@ -1,4 +1,3 @@
-## ✍ Skills : PYTHON / FLUTTER / KOTLIN / JAVA
 ### - 🚀 I’m currently working on Stock-King project.
 ### - 🌱 I’m currently learning React, Flutter, Machine Learning..
 
