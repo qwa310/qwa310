@@ -1,8 +1,8 @@
 ## Skills ✍ 
-- PYTHON / FLUTTER / KOTLIN / JAVA
+#### - PYTHON / FLUTTER / KOTLIN / JAVA
 
-### 🚀 I’m currently working on Stock-King project.
-### 🌱 I’m currently learning React, Flutter, Machine Learning..
+#### 🚀 I’m currently working on Stock-King project.
+#### 🌱 I’m currently learning React, Flutter, Machine Learning..
 
 
 ## ![GitHub stats](https://github-readme-stats.vercel.app/api?username=qwa310&show_icons=true)  
