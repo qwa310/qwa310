@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**qwa310/qwa310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying in the Department of IT Convergence and Application Engineering from Pukyong National University.
 
-Here are some ideas to get you started:
+#### Skills ✍
+##### - PYTHON / FLUTTER / KOTLIN / JAVA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### - 🔭 I’m currently working on Stock-King project 
+##### - 🌱 I’m currently learning React, Flutter, Machine Learning.. 
+
+#### ![GitHub stats](https://github-readme-stats.vercel.app/api?username=qwa310&show_icons=true)  
+
+#### ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=qwa310)  
+
+#### Experience 🚀
+##### 1. DSC PKNU (Google Developer Student Clubs, 2020.08 ~)
+##### 2. Fun.D (Side Project Team, 2021.03 ~) 
+##### 3. DOCL PROJECT (Group For Developing App Related To Covid-19, 4 months)
+##### 4. 데이터 청년 캠퍼스 (Program to study data analysis, 2 months)
+
+
