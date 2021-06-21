@@ -1,4 +1,4 @@
-### 🚀 I’m currently working on Stock-King project.
+### 🚀 I’m currently working on [Google Solution Challenge project, "InterSign"](https://developers.google.com/community/dsc-solution-challenge/winners)
 ### 🌱 I’m currently learning React, Flutter, Machine Learning..
 
 ## ![qwa310's GitHub stats](https://github-readme-stats.vercel.app/api?username=qwa310&show_icons=true&theme=nightowl)
