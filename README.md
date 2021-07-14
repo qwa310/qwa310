@@ -1,5 +1,5 @@
 ### 🌱 I’m currently learning Kotlin, Js, React, Flutter ..
-### My Notion : https://www.notion.so/Jeongmin-Park-cc0acf859b7e4e9ba298e1ca2e5fd7c6
+### 🎨 My Notion : https://www.notion.so/Jeongmin-Park-cc0acf859b7e4e9ba298e1ca2e5fd7c6
 ## ![qwa310's GitHub stats](https://github-readme-stats.vercel.app/api?username=qwa310&show_icons=true&theme=nightowl)
 
 
