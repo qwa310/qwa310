@@ -1,4 +1,4 @@
-### 🌱 I’m currently learning Kotlin, Js, React, Flutter ..
+### 🌱 I’m currently learning React, Flutter ..
 ## ![qwa310's GitHub stats](https://github-readme-stats.vercel.app/api?username=qwa310&show_icons=true&theme=nightowl)
 
 
