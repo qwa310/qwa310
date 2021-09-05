@@ -1,6 +1,5 @@
 ### 🌱 I’m currently learning TypeScript, Flutter ..
 ## ![qwa310's GitHub stats](https://github-readme-stats.vercel.app/api?username=qwa310&show_icons=true&count_private=true&theme=nightowl)
-## ![qwa310's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=qwa310)
 
 
 
