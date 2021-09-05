@@ -1,5 +1,6 @@
-### 🌱 I’m currently learning React, Flutter ..
+### 🌱 I’m currently learning TypeScript, Flutter ..
 ## ![qwa310's GitHub stats](https://github-readme-stats.vercel.app/api?username=qwa310&show_icons=true&count_private=true&theme=nightowl)
+## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qwa310)](https://github.com/qwa310/github-readme-stats)
 
 
 <!--
