@@ -1,7 +1,7 @@
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqwa310&count_bg=%23E9E993&title_bg=%23B9E79E&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 #### 🎓 Major : IT Convergence and Application Engineering
 #### 🌱 Study : I’m currently learning JavaScript, Flutter
-#### 🐾 Activity : DSC PKNU 1기, 2020 데이터 청년 캠퍼스 
+#### 🐾 Activity : IT Project Community Fun.D 6th, DSC PKNU 1st, 2020 Data Campus
 #### ✍ Blog : https://wz0z30.tistory.com/
 ## ![qwa310's GitHub stats](https://github-readme-stats.vercel.app/api?username=qwa310&show_icons=true&count_private=true&theme=nightowl)
 
