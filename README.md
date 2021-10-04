@@ -2,7 +2,7 @@
 #### 🎓 Major : IT Convergence and Application Engineering
 #### 🌱 Study : I’m currently learning JavaScript, Flutter
 #### 🐾 Activity : Fun.D 6th, DSC PKNU 1st, 2020 Data Campus
-#### ✍ [Blog](https://wz0z30.tistory.com/)
+#### ✍ [DevBlog](https://wz0z30.tistory.com/)
 ## ![qwa310's GitHub stats](https://github-readme-stats.vercel.app/api?username=qwa310&show_icons=true&count_private=true&theme=nightowl)
 
 
